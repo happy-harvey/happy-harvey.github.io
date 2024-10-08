@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a master student in computer science at UC San Diego. Looking for internship at 25 summer. Here is my [CV page](https://academicpages.github.io/cv).
+I'm currently a master student in computer science at UC San Diego. Looking for internship at 25 summer. Here is my [CV page](https://github.com/happy-harvey/happy-harvey.github.io/blob/master/files/resume.pdf).
 
 
 Education
