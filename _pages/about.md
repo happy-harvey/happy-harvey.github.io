@@ -15,14 +15,12 @@ Education
 **University of California San Diego**  
 *MS in Computer Science and Engineering*  
 *San Diego, United States*  
-_Sept 2024 - June 2026_
+_2024 - 2026_
 
 **University of Nottingham Ningbo China (UNNC)**  
-*BSc in Computer Science (with one-year exchange to the University of Nottingham UK campus)*  
+*BSc in Computer Science (with one-year exchange to the Nottingham UK campus)*  
 *Ningbo, China*  
-_Sept 2020 - June 2024_
-
-- **GPA**: 3.94/4.0 (Top 5 in the School of Computer Science)
+_2020 - 2024_
 
 
 **Awards**
@@ -30,7 +28,3 @@ _Sept 2020 - June 2024_
 - Province Scholarship
 - International Student Scholarship
 
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
