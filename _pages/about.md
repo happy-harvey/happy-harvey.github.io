@@ -23,8 +23,3 @@ _2024 - 2026_
 _2020 - 2024_
 
 
-**Awards**
-- Provost Academic Scholarship
-- Province Scholarship
-- International Student Scholarship
-
